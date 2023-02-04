@@ -1,4 +1,4 @@
-Hello, I'm a web app coder. 
+Hello, I'm a front-end coder. 
 你好，我是个前端开发者
 <!---
 SuDeeParke/SuDeeParke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
